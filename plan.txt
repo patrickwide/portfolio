@@ -1,0 +1,4 @@
+learn react
+make the whole backgraound process
+set it to the dom (django)
+twike the design
